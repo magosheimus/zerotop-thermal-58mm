@@ -38,31 +38,39 @@ Impressoras térmicas frequentemente centralizam o conteúdo verticalmente, cria
 
 ## 🚀 Instalação e Uso
 
-### Opção 1: Executável
 
-- Executável dentro da pasta /dist
+### 1. Clone o repositório
 
-### Opção 2: Executar com Python
-
-1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/zerotop-thermal-58mm.git
 cd zerotop-thermal-58mm
 ```
 
-2. Instale as dependências:
+### 2. Instale as dependências
+
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Execute o aplicativo:
+### 3. Execute o aplicativo
+
 ```bash
 python main.py
 ```
 
+### 4. (Opcional) Criar executável standalone
+
+Se preferir um arquivo .exe:
+
+```bash
+python build_exe.py
+```
+
+O executável será criado em `dist/ZeroTop Thermal 58mm.exe`
+
 ## Como Usar:
 
-1. Abrir ou arrastar imagem
+1. Clique em Abrir ou arraste a imagem
 2. (Opcional) Ajustar offset / cópias
 3. Visualizar preview
 4. Imprimir
@@ -83,3 +91,4 @@ Projeto independente desenvolvido a partir de uma necessidade prática no uso di
 ---
 
 **⭐ Se este projeto foi útil para você, considere dar uma estrela!**
+
