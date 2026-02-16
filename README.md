@@ -6,6 +6,9 @@ App desktop minimalista que remove automaticamente a margem superior indesejada,
 ![Python](https://img.shields.io/badge/python-3.8+-green)
 ![Licença](https://img.shields.io/badge/licença-MIT-orange)
 
+<img width="1009" height="742" alt="image" src="https://github.com/user-attachments/assets/b591aa3b-01e1-4ce7-bbf0-881553872b51" />
+
+
 ## 🎯 Problema 
 
 Impressoras térmicas frequentemente centralizam o conteúdo verticalmente, criando grandes espaços em branco no início da impressão e desperdiçando papel. Este aplicativo detecta e remove automaticamente essas margens, forçando a impressão a começar no topo absoluto do papel.
@@ -91,4 +94,5 @@ Projeto independente desenvolvido a partir de uma necessidade prática no uso di
 ---
 
 **⭐ Se este projeto foi útil para você, considere dar uma estrela!**
+
 
